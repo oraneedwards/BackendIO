@@ -9,4 +9,4 @@ This is an experiment. It is tailored towards front-end developers and consumers
 
 It has 2 main purposes.
 + Act as a stub to quickly test out functionality.
-+ Bypass the complications associated with setting up simple RESTful services (Eg. CRUD opperations & Authentication)
++ Bypass the complications associated with setting up and hosting simple RESTful services (Eg. CRUD opperations & Authentication)
